@@ -1,0 +1,5 @@
+DOMAIN = "security_feed"
+DOMAIN_DATA = f"{DOMAIN}_data"
+CONF_STORAGE = "storage"
+CONF_WWW = "www"
+CONF_EMPTY_IMAGE = "empty_image"
